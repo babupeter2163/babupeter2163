@@ -1,6 +1,6 @@
 ADS1115 Overview  
 
-Welcome to the **ADS1115 ADC Documentation**. This repository provides a detailed overview of the ADS1115 16-bit Analog-to-Digital Converter (ADC), including its features, internal architecture, inputs and outputs, and application examples.  
+Welcome to the *ADS1115 ADC Documentation*. This repository provides a detailed overview of the ADS1115 16-bit Analog-to-Digital Converter (ADC), including its features, internal architecture, inputs and outputs, and application examples.  
 
 ---
 
